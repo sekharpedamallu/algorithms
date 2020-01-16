@@ -1,2 +1,2 @@
 # algorithms
-coding problems
+Coding Problems
